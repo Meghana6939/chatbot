@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Backend API URL
-API_URL = "http://localhost:8000"
+API_URL = "https://chatbot-tzjm.onrender.com"
 
 # Set page config
 st.set_page_config(
